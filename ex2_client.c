@@ -1,9 +1,3 @@
-/*
-208298653 ofir mutzafi
-208206771 tamir abutbul
-318644861 yuval katzir
-*/
-
 #include <stdlib.h>
 #include <string.h>
 #include <sys/types.h> 
